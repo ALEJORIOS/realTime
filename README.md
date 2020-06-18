@@ -4,4 +4,4 @@ These are the two most common used charts in vuejs. Vue-trend-chart (https://git
 
 > Vue trend chart is a very good tool to plot a set of values, the main characteristic is the interaction between the mouse and and the graph.
 
-![Tux, the Linux mascot](/assets/vue-trend-chart.png)
+![Vue trend chart](\front\realtime\src\assets\vue-trend-chart.png)
