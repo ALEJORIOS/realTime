@@ -147,9 +147,9 @@ export default {
   }
 .separatorh {
   border-top: 1px solid gray;
-  width: 18rem;
+  width: 34rem;
   margin-bottom: 2rem;
   
-}
+  }
 </style>
 
