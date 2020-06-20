@@ -9,3 +9,5 @@ These are the two most common used charts in vuejs. Vue-trend-chart (https://git
 > Chart.Js is the better tool to plot a set of values, is easy to learn and easy to configure.
 
 ![Chart.Js](https://raw.githubusercontent.com/ALEJORIOS/realTime/master/front/realtime/src/assets/chartJs.png "Chart.Js")
+
+These two graphics are real-time plots, every 2 seconds it is updated. from a Javascript file connected to a database (Mongo Atlas) throught Socket.IO simulating that it catches data.
